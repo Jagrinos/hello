@@ -1,0 +1,4 @@
+﻿  oks.cpp
+E:\cishechka\progectiki\oks\oks.cpp(134,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\cishechka\progectiki\oks\oks.cpp(142,21): warning C4018: <: несоответствие типов со знаком и без знака
+  oks.vcxproj -> E:\cishechka\progectiki\oks\x64\Debug\oks.exe
